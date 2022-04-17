@@ -1,0 +1,69 @@
+.modal {
+  width: 220px;
+}
+.modal-content {
+  width: 220px;
+  background-color: #222222;
+}
+.list-group-item:hover {
+  background-color: rgba(59, 57, 57, 0.164) !important;
+}
+.icone_nav {
+  font-size: 30px;
+  color: white;
+}
+.icone_menu {
+  padding-right: 15px;
+}
+.icon_title_menu {
+  padding-right: 10px;
+  padding-left: 15px;
+}
+a {
+  text-decoration: none;
+  color: black;
+}
+li {
+  text-decoration: none;
+  list-style: none;
+  padding-bottom: 5px;
+  font-size: 13pt;
+  padding-left: 15px;
+  transition: 0.3s;
+  color: white;
+}
+li:hover {
+  color: rgb(180, 180, 180);
+}
+.btn {
+  background-color: white;
+  color: black;
+  transition: 0.3s;
+}
+.btn:hover {
+  background-color: rgb(180, 180, 180);
+  color: black;
+}
+.btn_x {
+  border: none;
+  font-size: 35px;
+  color: white;
+  background-color: #222222;
+  transition: 0.3s;
+}
+.btn_x:hover {
+  color: rgb(180, 180, 180);
+}
+.link_title h1 {
+  color: white;
+  padding: 10px;
+  font-size: 20pt;
+}
+.link_title {
+  position: block;
+  margin: auto;
+  padding-right: 50px;
+}
+hr {
+  color: white;
+}
