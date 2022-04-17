@@ -3,7 +3,7 @@ include_once("templates/header.php");
 ?>
 
 <main id="main_pesquisar">
-    <h1>Pesquisar</h1>
+    <h1>Consultar</h1>
     <a class="btn_voltar" href="index.php"><i class="bi bi-backspace-fill"> </i>Voltar</a>
     <table class="tbl_pesquisar table table-striped">
         <thead>
