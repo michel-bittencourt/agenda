@@ -32,7 +32,6 @@ include_once("config/processamento.php");
                 <a class="link_title" href="index.php">
                     <h1>Agenda</h1>
                 </a>
-
             </div>
         </nav>
 
