@@ -36,8 +36,6 @@ include_once("config/processamento.php");
             </div>
         </nav>
 
-
-
         <div class="modal true" id="exampleModal" tabindex="-1" aria-labelledby="exampleModalLabel" aria-hidden="true">
             <div class="modal-dialog modal-fullscreen">
                 <div class="modal-content">
