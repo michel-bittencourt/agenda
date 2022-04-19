@@ -13,7 +13,19 @@ include_once("templates/header.php");
         </form>
     </div>
 
-    <form class="row g-3">
+    <form action="" method="POST">
+        <div class="lbl1">
+            <label for="">Nome: </label>
+            <input type="text">
+        </div>
+        <div class="lbl2">
+            <label for="">Sobrenome: </label>
+            <input type="text">
+        </div>
+
+    </form>
+
+    <form>
         <div class="inp_nome col-md-5">
             <label for="inputNome" class="form-label">Nome:</label>
             <input type="text" class="form-control" id="inputNome" placeholder="Digite o primeiro nome">

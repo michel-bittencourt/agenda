@@ -37,7 +37,11 @@
   font-weight: bolder;
   font-size: 14pt;
 }
-.inp_sobrenome {
+.lbl1{
   display: flex;
-  align-items: flex-end;
+  float: left;
+}
+.lbl2{
+  display: flex;
+  float: right;
 }
