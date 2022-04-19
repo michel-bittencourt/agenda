@@ -1,0 +1,27 @@
+#main_consultar h1 {
+  margin-top: 20px;
+  margin-bottom: 30px;
+  color: black;
+  text-align: center;
+}
+#main_consultar {
+  width: 70%;
+  margin: 0 auto;
+}
+.tbl_consultar {
+  margin-top: 25px;
+}
+.tbl_consultar i{
+  font-size: 20px;
+}
+.caixa_pesquisar{
+  display: flex;
+  float: right;
+  width: 35%;
+}
+.caixa_pesquisar i{
+  font-size: 25px;
+  font-weight: bolder;
+  padding-left: 15px;
+  padding-right: 0;
+}

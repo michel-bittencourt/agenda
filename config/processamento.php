@@ -4,5 +4,4 @@
     $consulta = "SELECT * FROM pessoas";
     $results = $conn->query($consulta);
 
-
 ?>

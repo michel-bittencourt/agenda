@@ -1,0 +1,43 @@
+#main_cadastrar h1 {
+  margin-top: 20px;
+  margin-bottom: 30px;
+  color: black;
+  text-align: center;
+}
+#main_cadastrar {
+  width: 50%;
+  margin: 0 auto;
+  border: 2px solid black;
+}
+.tbl_consultar {
+  margin-top: 25px;
+}
+.tbl_consultar i {
+  font-size: 20px;
+}
+.caixa_pesquisar {
+  display: flex;
+  float: right;
+  width: 35%;
+}
+.caixa_pesquisar i {
+  font-size: 25px;
+  font-weight: bolder;
+  padding-left: 15px;
+  padding-right: 0;
+}
+#form_cadastrar input {
+  margin-bottom: 15px;
+}
+.btn_voltar_cadastrar {
+  background-color: rgb(36, 212, 109);
+  color: black;
+  padding: 7px 12px;
+  border-radius: 10px;
+  font-weight: bolder;
+  font-size: 14pt;
+}
+.inp_sobrenome {
+  display: flex;
+  align-items: flex-end;
+}

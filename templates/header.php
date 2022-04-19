@@ -17,7 +17,8 @@ include_once("config/processamento.php");
     <!--STYLES-->
     <link rel="stylesheet" href="css/geral.css">
     <link rel="stylesheet" href="css/header.css">
-    <link rel="stylesheet" href="css/pesquisar.css">
+    <link rel="stylesheet" href="css/consultar.css">
+    <link rel="stylesheet" href="css/cadastrar.css">
     <link rel="stylesheet" href="css/show.css">
     <title>Agenda</title>
 </head>
@@ -54,7 +55,7 @@ include_once("config/processamento.php");
                                 <li><i class="icone_menu bi bi-search"></i>Consultar</li>
                             </a>
                             <hr>
-                            <a href="#">
+                            <a href="cadastrar.php">
                                 <li><i class="icone_menu bi bi-person-plus-fill"></i>Cadastrar</li>
                             </a>
                             <hr>

@@ -8,7 +8,5 @@
 
     if($conn->connect_errno){
         echo ("ERRO DE CONEXÃO!");
-    }else{
-        
     }
 ?>
